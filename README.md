@@ -1,8 +1,8 @@
 # Netflix Movies and TV Shows Analysis
 
 ## Project Overview 
-This project analyzes Netflix's movies and TV show trends using Python (Pandas, Matplotlib).
-The dataset comes from Kaggle and contains data about Netflix contnet.
+-This project analyzes Netflix's movies and TV show trends using Python (Pandas, Matplotlib).
+-The dataset comes from Kaggle and contains data about Netflix contnet.
 
 ## Skills Used
 Data cleaning (Pandas)
