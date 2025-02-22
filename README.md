@@ -1,24 +1,10 @@
-# Netflix Movies and TV Shows Analysis
+# Taiwo Adelu - Data Analyst Portfolio 
 
-## Project Overview 
-- This project analyzes Netflix's movies and TV show trends using Python (Pandas, Matplotlib).
-- The dataset comes from Kaggle and contains data about Netflix contnet.
+## About
+Hi, I'm Taiwo! I have a background in Operations and Information Management, and am currently pursuing my Master's in Business Analytics (MSBA). With a strong foundation in data-analysis and problem-solving, I am eager to apply my technical and analytical skills as an entry-levle data analyst.
 
-## Skills Used
-- Data cleaning (Pandas)
-- Data Analysis (grouping and filtering)
-- Data Visualization (Matplotlib)
+Throughout my studies, I have developed expertise in SQL, Python, Tableau, and Excel, gaining hands-on experience in cleaning, analyzing, and visualizing data to support business decision-making. My ability to work with complexdata sets, identify trends, and create data-driven solutions allows me to uncover meaningful insights.
 
-## Key Findings
-- The U.S. has the most Netflix content.
-- Netflix added the most content in 2020.
-- Documentaries are the most common genre.
+This portfolio showcases a variety of projects that highlight my analytical skills. Beyond technical skills, I take pride in my problem-solving mindset and strategic approach to data anlysis.
 
-## Files
-- ['Netflix_Data_Analysis.ipynb'](Netflix_Data_Analysis.ipynb)
-- ['cleaned_netflix_data.csv'](cleaned_netflix_data.csv)
-
-## Tools Used
-- Google Colab
-- Python (Pandas, Matplotlib)
-- Github
+Thank you for visiting my portfolio!
