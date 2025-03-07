@@ -7,7 +7,7 @@ Hi, I'm Taiwo! I have a background in Operations and Information Management, and
 
 ### Netflix Movies & TV Shows Analysis 
 
-**Code:** [`Netflix Movies & TV Shows Analysis/`](Netflix_Data_Analysis.ipynb/Code/)
+**Code:** [`Netflix Movies & TV Shows Analysis`](Netflix_Data_Analysis.ipynb/Python/)
 
 **Description**: This project analyzes Netfliix's movies and TV show catalog to uncover content types, geographic distribution, genres, and release trends. Using Python, I explored questions about Netflix's strategy, such as the prevalence of movies vs. TV shows, the most dominant content-producing countries, and genre popularity. By visualizing how Netflix's library has evolved over the years, this analysis provides insight into how Netflix has expanded its offerings and what type of content is most common on the platform. 
 
