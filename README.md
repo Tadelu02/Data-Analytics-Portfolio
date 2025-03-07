@@ -10,7 +10,7 @@ This repository showcases my data analytics projects, highlighting the technique
 ## Portfolio Projects
 
 ### Netflix Movies & TV Shows Analysis 
-**Code Folder:**[`Code/`](Netflix_Data_Analysis.ipynb/Code/)
+**Code Folder:**[`Code`](Netflix_Data_Analysis.ipynb/Python/)
 
 **Goal**: To analyzae Netflic content trends, cinlduing growth over time, popular genres, and top content-producing countries
 
