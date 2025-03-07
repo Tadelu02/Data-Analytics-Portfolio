@@ -1,11 +1,7 @@
 # Taiwo Adelu - Data Analyst Portfolio 
 
 ## About Me
-Hi, I'm Taiwo! I have a background in Operations and Information Management, and I am currently pursuing my Master's in Business Analytics (MSBA). I specialize in data analysis and problem-solving, leveraging SQL, Python, and Excel to uncover insights.
-
-Throughout my studies, I have worked on real-world datasets, building skills in data cleaning, visualization, trend analysis, and reporting. 
-
-This repository showcases my data analytics projects, highlighting the techniques, tools, and skills that I have developed. 
+Hi, I'm Taiwo! I have a background in Operations and Information Management, and I am currently pursuing my Master's in Business Analytics (MSBA). I specialize in data analysis and problem-solving, leveraging SQL, Python, and Excel to uncover insights. Throughout my studies, I have worked on real-world datasets, building skills in data cleaning, visualization, trend analysis, and reporting. This repository showcases my data analytics projects, highlighting the techniques, tools, and skills that I have developed. 
 
 ## Portfolio Projects
 
